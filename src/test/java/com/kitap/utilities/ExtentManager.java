@@ -42,8 +42,8 @@ public class ExtentManager extends BaseTest {
 		spark.config().setReportName("SALESFORCE");
 		spark.config().setDocumentTitle("Test Results");
 		spark.config().setTheme(Theme.STANDARD);
-		String path="C:\\Users\\AbhilashBysani-Kairo\\eclipse-workspace\\KITAP\\extentconfig.xml";
-		spark.loadXMLConfig(path);
+		//String path="C:\\Users\\AbhilashBysani-Kairo\\eclipse-workspace\\KITAP\\extentconfig.xml";
+		//spark.loadXMLConfig(path);
 		
 		return extentReport;
 		
