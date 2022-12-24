@@ -1,19 +1,23 @@
 pipeline{
 agent any
+tools { 
+      maven 'MAVEN_HOME' 
+      jdk 'JAVA_HOME' 
+    }
 stages
 {
 stage('Build')
 {
 steps{
 echo "Building test case....."
-bat "clean"
+bat "mvn clean"
 }
 }
 stage('Test')
 {
 steps{
 echo "Testing the code....."
-bat "test"
+bat "mvn test"
 }
 }
 stage('Compile')
