@@ -287,7 +287,7 @@
                             <reuseForks>false</reuseForks>
                             <reportsDirectory>target/surefire-reports-${surefire.forkNumber}</reportsDirectory>
                             <suiteXmlFiles>
-                                   <suiteXmlFile>C:\Users\AbhilashBysani-Kairo\eclipse-workspace\KITAP\daikinsuite.xml</suiteXmlFile>
+                                   <suiteXmlFile>daikinsuite.xml</suiteXmlFile>
                             <!--        <suiteXmlFile>C:\Users\AbhilashBysani-Kairo\eclipse-workspace\KITAP\suiteB.xml</suiteXmlFile>
                                     <suiteXmlFile>C:\Users\AbhilashBysani-Kairo\eclipse-workspace\KITAP\suitec.xml</suiteXmlFile>       -->   
                                <!--      <suiteXmlFile>C:\Users\AbhilashBysani-Kairo\eclipse-workspace\KITAP\kitapSF.xml</suiteXmlFile>    -->
