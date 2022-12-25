@@ -5,7 +5,7 @@
 <listeners>
 <listener class-name="com.kitap.utilities.listener"></listener>
 </listeners> 
- <parameter name="browserType" value="chrome" />  
+ <parameter name="browserType" value="remote-edge" />  
 
     <test  name="Salesforce Demo CasesWarrantyClaimCreation">
       <classes>     
