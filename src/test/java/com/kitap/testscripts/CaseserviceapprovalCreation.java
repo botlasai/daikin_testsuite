@@ -43,7 +43,7 @@ public class CaseserviceapprovalCreation extends BaseTest {
         casesserviceapproval.clickuserdetail("User Detail");   
         Thread.sleep(5000);
         casesserviceapproval.clicklogin();
-        Thread.sleep(15000);
+        Thread.sleep(20000);
         casesserviceapproval.clicknotification("Notifications");
         casesserviceapproval.clickapprovalcase("Banu Ramamurthy is requesting approval for case");
         casesserviceapproval.clickapprovalstatus("Approve");
