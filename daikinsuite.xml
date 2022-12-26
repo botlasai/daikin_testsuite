@@ -17,11 +17,11 @@
       <class name="com.kitap.testscripts.CasesWarrantyCreation"/> 
       </classes> 
        </test>       
-      <test  name="Salesforce Demo CaseserviceapprovalCreation">
+      <!-- <test  name="Salesforce Demo CaseserviceapprovalCreation">
       <classes>  
        <class name="com.kitap.testscripts.CaseserviceapprovalCreation"/>       
       </classes> 
-       </test>   
+       </test>    -->
 </suite> <!-- Suite -->
 
 
