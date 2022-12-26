@@ -12,11 +12,11 @@
       <class name="com.kitap.testscripts.CasesWarrantyClaimCreation"/> 
        </classes>  
        </test>   
-       <test  name="Salesforce Demo CasesWarrantyCreation">
+    <!--   <test  name="Salesforce Demo CasesWarrantyCreation">
        <classes>   
       <class name="com.kitap.testscripts.CasesWarrantyCreation"/> 
       </classes> 
-       </test>       
+       </test>       -->  
       <!-- <test  name="Salesforce Demo CaseserviceapprovalCreation">
       <classes>  
        <class name="com.kitap.testscripts.CaseserviceapprovalCreation"/>       
